@@ -15,7 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science senior interested in systems programming, infrastructure, and distributed systems. I enjoy building tools that interact closely with operating systems, networking, and hardware.
+I'm a Computer Science senior interested in systems programming, infrastructure, and distributed systems. I enjoy building tools that interact closely with operating systems, networking, and optimization.
 
 Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), systems utilities, and low-level performance optimization.
 
+## Current Projects:
+
+- MapleGrove Partners Infrastructure Project – Extending the functionality of a webhosting service in order to support containerized applications. Kubernetes is used for orchestration, and Ansible is used for server configuration.
+
+- Systems programming experiments involving file systems, hashing algorithms, and performance benchmarking.
+
+## Languages & Tools
+
+- C / C++
+
+- Python
+
+- JavaScript
+
+- Docker & Kubernetes
+
+- Linux
+
+- Git

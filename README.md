@@ -23,7 +23,6 @@ Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), s
 
 - MapleGrove Partners Infrastructure Project – Extending the functionality of a webhosting service in order to support containerized applications. Kubernetes is used for orchestration, and Ansible is used for server configuration.
 
-- Systems programming experiments involving file systems, hashing algorithms, and performance benchmarking.
 
 ## Languages & Tools
 

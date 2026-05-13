@@ -23,17 +23,9 @@ Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), s
 
 - MapleGrove Partners Infrastructure Project – Extending the functionality of a webhosting service in order to support containerized applications. Kubernetes is used for orchestration, and Ansible is used for server configuration.
 
+## Skills
 
-## Languages & Tools
+Languages: Python|Typescript|Javascript|C|C++|Java|Rust|Bash|PHP
+Frameworks & Libraries: React|Flask|FastAPI|Node.js|Express.js|NumPy|Pandas|Matplotlib
+Developer Tools: Linux|Ansible|Kubernetes|Docker|Git|
 
-- C / C++
-
-- Python
-
-- JavaScript
-
-- Docker & Kubernetes
-
-- Linux
-
-- Git

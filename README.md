@@ -25,7 +25,7 @@ Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), s
 
 ## Skills
 
-Languages: Python|Typescript|Javascript|C|C++|Java|Rust|Bash|PHP
-Frameworks & Libraries: React|Flask|FastAPI|Node.js|Express.js|NumPy|Pandas|Matplotlib
-Developer Tools: Linux|Ansible|Kubernetes|Docker|Git|
+Languages: Python | Typescript | Javascript | C | C++ | Java | Rust | Bash |PHP
+Frameworks & Libraries: React | Flask | FastAPI | Node.js | Express.js | NumPy | Pandas | Matplotlib
+Developer Tools: Linux | Ansible | Kubernetes | Docker | Git |
 

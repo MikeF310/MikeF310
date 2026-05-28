@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science senior interested in systems programming, infrastructure, and distributed systems. I enjoy building tools that interact closely with operating systems, networking, and optimization.
+I'm a Computer Science senior interested in cloud infrastructure and distributed systems. I enjoy working on large-scale systems, and automating developer processes. 
 
-Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), systems utilities, and low-level performance optimization.
+Currently working on projects involving cloud computing, CI/CD pipelines, and containerization.
 
 ## Current Projects:
 

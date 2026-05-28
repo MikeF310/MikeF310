@@ -21,7 +21,7 @@ Currently working on projects involving CI/CD pipelines (Ansible, Kubernetes), s
 
 ## Current Projects:
 
-- MapleGrove Partners Infrastructure Project – Extending the functionality of a webhosting service in order to support containerized applications. Kubernetes is used for orchestration, and Ansible is used for server configuration.
+- Receipt Vault – A full-stack application where users can upload receipts, which are automatically scanned and extracted into structured financial data. Users can see past transactions, individual items, and monthly reports. 
 
 ## Skills
 
